@@ -1,0 +1,1 @@
+"""NightGuard AI demo backend."""
